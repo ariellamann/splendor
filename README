@@ -1,0 +1,18 @@
+README 
+
+Title and name:
+
+    Homework 11 - Splendor
+    Ariella Mann
+
+Purpose of the program:
+
+    The purpose of this program is to replicate the card game splendor. 
+    It's a two player game where they each take turns picking cards and getting
+    tokens in an effort to win. 
+
+How to compile and run: 
+
+    g++ -g3  vector.cpp player.cpp splendor.cpp termfuncs.cpp card.cpp game.cpp -o splendor
+    Without nobles: ./spendlor splendor.data false
+    With nobles: ./spendlor splendor.data true
