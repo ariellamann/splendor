@@ -1,0 +1,10 @@
+p3 white green red
+r m 1
+p3 white blue red
+p2 pink
+p3 white pink red
+r t 3
+p3 white pink blue
+white 
+red
+q
